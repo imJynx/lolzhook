@@ -4,7 +4,7 @@
 
 External Cheat for CS2
 
-`Discord` **->** [AimShit](https://discord.gg/lolz)
+`Discord` **->** [lolz](https://discord.gg/lolz)
 
 > Cheat gets regular updates for now and all new updates are in the discord
 
