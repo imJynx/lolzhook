@@ -4,7 +4,10 @@
 
 External Cheat for CS2
 
-`Discord` **->** [lolz](https://discord.gg/lolz)
+# THE CODE FOR THIS CHEAT IS FORKED FROM AIMSTAR/TKAZERS CS2 EXTERNAL CHEAT
+## IM NO LONGER UPDATING/ USING THIS SOURCE DO NOT ASK ME QUESTIONS ABOUT IT.
+
+`Discord` **->** [lolz](https://discord.gg/imJynx)
 
 > Cheat gets regular updates for now and all new updates are in the discord
 
